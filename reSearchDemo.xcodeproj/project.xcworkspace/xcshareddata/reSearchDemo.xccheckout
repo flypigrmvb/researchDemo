@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A4266200-43FC-40DC-AED0-CAFC7ACF81B3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>reSearchDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>fd5bfe22-8c12-d544-bbea-153dbb4806fa++377</key>
+		<string>https://192.168.1.5:4433/svn/xizuesoft/projects/weiyuan/ios</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>reSearchDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>fd5bfe22-8c12-d544-bbea-153dbb4806fa++377</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>fd5bfe22-8c12-d544-bbea-153dbb4806fa++377</key>
+		<string>https://192.168.1.5:4433/svn/xizuesoft</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://192.168.1.5:4433/svn/xizuesoft/projects/weiyuan/ios/reSearchDemo.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>fd5bfe22-8c12-d544-bbea-153dbb4806fa++377</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>fd5bfe22-8c12-d544-bbea-153dbb4806fa++377</string>
+			<key>IDESourceControlWCCName</key>
+			<string>reSearchDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
